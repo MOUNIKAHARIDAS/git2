@@ -1,0 +1,3 @@
+
+echo " its bit hard to learn but i am learning"
+

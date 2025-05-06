@@ -1,0 +1,3 @@
+echo " i am practicing devops tools"
+echo " i am starti g with fundamnetals"
+
