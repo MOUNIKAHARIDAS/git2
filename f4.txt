@@ -2,3 +2,4 @@ echo " i have just started learning devops "
 echo "in devops i have just started learning "
 
 this is change to f4.txt
+ i am also learnig a git
