@@ -1,0 +1,4 @@
+ echo " iam learning devops"
+echo " i am learning git fundamentals"
+ echo "i am so excited to learmn"
+
